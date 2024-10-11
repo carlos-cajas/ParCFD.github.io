@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Objectives
-subtitle: The objectoves of the Conference Series
+subtitle: The objectives of the Conference Series
 show_sidebar: false
 ---
 
