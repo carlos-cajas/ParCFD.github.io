@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: ParCFD
+subtitle: Parallel CFD International Conference Series
 layout: page
 callouts: home_callouts
 show_sidebar: true
