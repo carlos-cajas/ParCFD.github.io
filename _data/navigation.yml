@@ -1,5 +1,5 @@
-- name: Docs
-  link: /docs/
+#- name: Docs
+#  link: /docs/
 - name: About
   link: /#
   dropdown:
@@ -7,19 +7,19 @@
       link: /objectives/
     - name: Committees
       link: /committees/
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Promo Page
-      link: /promo-page/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
+#    - name: Landing Page With Callouts
+#      link: /landing/
+#    - name: Promo Page
+#      link: /promo-page/
+#    - name: Sponsors Page
+#      link: /sponsors/
+#    - name: Image Gallery
+#      link: /gallery/
+#    - name: Products
+#      link: /products/
+#    - name: Recipe Page
+#      link: /example-recipe/
+#    - name: Showcase
+#      link: /showcase/
 - name: Blog
   link: /blog/
