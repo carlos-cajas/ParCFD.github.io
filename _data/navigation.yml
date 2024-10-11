@@ -21,5 +21,14 @@
 #      link: /example-recipe/
 #    - name: Showcase
 #      link: /showcase/
+- name: Conferences
+  link: /#
+  dropdown:
+    - name: Upcoming conference
+      link: /upcoming_conference/
+    - name: Previous conferences
+      link: /previous_conferences/
+- name: Conference Proceedings
+  link: /proceedings/
 - name: Blog
   link: /blog/
