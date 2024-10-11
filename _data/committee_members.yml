@@ -1,0 +1,11 @@
+- tier_name: International Scientific Advisory Committee
+  size: small
+  description: |-
+    The members constitute the decision body of ParCFD
+  sponsors:
+    - name: Ramesh K. Agarwal, Washington University, USA
+    - name: Hasan U. Akay, Atilim University, Turkiye
+- tier_name: Honorary members
+  description: |-
+  sponsors:
+    - name: Shahrouz Aliabadi, Jackson State University, USA
