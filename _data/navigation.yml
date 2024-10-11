@@ -5,6 +5,8 @@
   dropdown:
     - name: Objectives
       link: /objectives/
+    - name: Committees
+      link: /committees/
     - name: Landing Page With Callouts
       link: /landing/
     - name: Promo Page
