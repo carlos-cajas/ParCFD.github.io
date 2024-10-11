@@ -9,5 +9,5 @@ items:
     image_ratio: is-16by9
     link: https://www.parcfd2025.org
     link_text: Go to the ParCFD 2025 websoite
-    tags: Bulma,CSS,Jekyll
+    #tags: Bulma,CSS,Jekyll
     #github: chrisrhymes/chrisrhymes.github.io
