@@ -3,7 +3,6 @@ layout: page
 title: Objectives
 subtitle: The objectoves of the Conference Series
 show_sidebar: false
-callouts: example_callouts
 ---
 
 Computational Fluid Dynamics (CFD) is a discipline that has always been in the vanguard of the exploitation of emerging and developing technologies. The CFD community in its quest for more accurate simulations and reductions in the time to solution have rapidly absorbed advances in both algorithms and computers. Within this context, parallel computing has played an increasingly important role. Parallel computing has become a common tool for scientific computations on computer system from most high-end ten TeraFLOPS machines to low-end commodity PC clusters. Moreover, the uptake of parallel computing has brought the CFD community into ever-closer contact with hardware vendors and computer scientists. The multidisciplinary subject of parallel CFD and its rapidly evolving nature, in terms of hardware and software, requires a regular international meeting of this nature to keep abreast of the most recent developments.
