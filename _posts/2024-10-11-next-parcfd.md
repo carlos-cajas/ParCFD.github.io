@@ -10,4 +10,4 @@ hero_darken: true
 series: blog_series
 ---
 
-The next ParCFD 2025 will be held in Mexico. More details can be found [here](/upcoming_conference/)
+The next ParCFD 2025 will be held in Mexico. More details can be found [here](/upcoming_conference/).
