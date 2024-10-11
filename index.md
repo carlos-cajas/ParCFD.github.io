@@ -5,42 +5,23 @@ layout: page
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Welcome to ParCFD
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+The Parallel Computational Fluid Dynamics (ParCFD) Conference is an annual event. The inaugural event was held in 1989 in Manhattan Beach, California, and the next event will be held in Mexico.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+ParCFD is an annual international forum devoted to the discussion of recent developments and applications of parallel computing in the field of Computational Fluid Dynamics and related disciplines. 
 
-## Ruby Gem
+The topics of interest can cover, but are not limited to:
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
-
-## Documentation
-
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
-
-## Page Layouts
-
-This demo site showcases the available page layout options. 
-
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Promo Page
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+* Parallel Algorithms and Solvers
+* Extreme-Scale Computing including Computations on Novel Hardware Technologies
+* Mechanical and Aerospace Engineering Applications
+* Multi-Phase Flows and Chemical Engineering Applications
+* Atmospheric and Ocean Modelling
+* Verification, Validation and Uncertainty Quantification (VVUQ) in CFD Modelling
+* Turbulence, Combustion, and Acoustics
+* Multi-Disciplinary Design Optimization
+* Multi-Scale and Multi-Physics Applications
+* Astrophysical Fluid Dynamics
+* Software Frameworks and C/G-PU Computing
+* AI and Machine Learning for CFD
