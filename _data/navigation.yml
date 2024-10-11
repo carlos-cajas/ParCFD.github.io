@@ -1,8 +1,10 @@
 - name: Docs
   link: /docs/
-- name: Example Pages
+- name: About
   link: /#
   dropdown:
+    - name: Objectives
+      link: /objectives/
     - name: Landing Page With Callouts
       link: /landing/
     - name: Promo Page
