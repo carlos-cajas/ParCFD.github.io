@@ -3,7 +3,7 @@ title: ParCFD
 subtitle: Parallel CFD International Conference Series
 layout: page
 hero_image: /img/ParCFD_logo_tr.png
-hero_darken: false
+hero_darken: true
 show_sidebar: true
 ---
 
