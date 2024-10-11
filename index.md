@@ -2,7 +2,6 @@
 title: ParCFD
 subtitle: Parallel CFD International Conference Series
 layout: page
-callouts: home_callouts
 show_sidebar: true
 ---
 
