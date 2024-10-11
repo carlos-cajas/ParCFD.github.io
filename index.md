@@ -2,8 +2,7 @@
 title: ParCFD
 subtitle: Parallel CFD International Conference Series
 layout: page
-show_sidebar: true
-series: blog_series
+show_sidebar: false
 ---
 
 # Bulma Clean Theme demo website
