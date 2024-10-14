@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Previous Conferences
-show_sidebar: false
+show_sidebar: true
 ---
 
 # ParCFD Conference Series - since 1989
