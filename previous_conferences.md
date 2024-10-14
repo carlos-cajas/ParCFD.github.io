@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Previous Conferences
+hero_image: /img/ParCFD_locations.png
+hero_darken: true
 show_sidebar: true
 ---
 
