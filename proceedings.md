@@ -6,7 +6,7 @@ show_sidebar: true
 
 # Proceedings of the Conference Series
 
-* [Parallel CFD 2024, Bonn, Germany], to appear soon
+* Parallel CFD 2024, Bonn, Germany, to appear soon
 * Parallel CFD 2023, Cuenca, Ecuador, no proceedings
 * Parallel CFD 2022, Alba, Italy, no proceedings
 * Parallel CFD 2021, Nice France, no proceedings
